@@ -4,7 +4,7 @@
             For extra credit, the program also allows the user to search for a specific country and date, and then prints data pertaining to country and date.
  Created: 6/5/20
  Author: Tim Chester
- email: chestert@student.vvc.edu
+ email: tjchester7@gmail.com
 */
 
 #include<iostream>
